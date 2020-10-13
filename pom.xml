@@ -21,7 +21,7 @@
     <arquillian-cube.version>1.18.2</arquillian-cube.version>
     <arquillian-junit.version>1.4.0.Final</arquillian-junit.version>
     <commons-logging.version>1.2</commons-logging.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mksapi.version>4.10.9049</mksapi.version>
     <fabric8.generator.from>registry.access.redhat.com/redhat-openjdk-18/openjdk18-openshift:${openjdk18-openshift.version}</fabric8.generator.from>
     <fabric8.openshift.generateRoute>false</fabric8.openshift.generateRoute>
